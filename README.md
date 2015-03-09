@@ -1,2 +1,3 @@
 # PROTEUS
-A Game of astroids
+A Game of Pong
+
